@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "googleMap-angular"
+  "defaultProject": "googleMap-angular",
+  "cli": {
+    "analytics": false
+  }
 }
